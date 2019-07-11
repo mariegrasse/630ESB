@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+       <style>
+            body {
+                background-color: teal;
+            }
+         h1{
+              color: yellow;
+            }
+         p{
+             background-color:teal;
+             color:yellow;
+             font-family:comic sans MS;
+           
+           
+               
+            </style>
+        
+    </head>
+    <body>
+      <h1><marquee behavior="alternate" scrollamount="40">The Manatee Website</marquee></h1>
+      <p>Have you heard of the gentle giant? The sea cow? The manatee(trichechus)? Well, it is a threatened/endangered species. Why are manatees endangered? Well, most deaths are caused by boats and boat propellers. These propellers cut the manatees' skin. Most injuries are lethal.In fact, there were 538 manatees deaths in 2017 and even more in 2018. Other causes of death are red tide, pollution, canal locks, and poaching. The best thing you can do is find out what you can do to help! </p>
+        <img src = "http://www.quickmeme.com/img/49/49f585e0a50d89446d4b7df50c1fb9bd2d9cdc74390554a0976876805a675813.jpg">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Es4jpGcULiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <body>
+    </html>     
