@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<style>
+		</style>
+	</head>
+	<body>
+		<h1>Hi there,this is my own website</h1>
+		<h2>My name is Rafael boutin and this is my website about me. Something cool about me is that I was named after three angels</h2>
+		<p> some of my favorite foods would be Ramon, Japanese dumplings, and more!!!</p>
+		<h3>My favorite movie is TOY STORY 4. I go to Hawthorne Elementry school, my favorite subject is sciance</h3>
+		<h1>Befor school ended, I as a tiny bit popular because of my beutyful voice</h1>
+		<img src="http://images6.fanpop.com/image/photos/39400000/Cute-Rabbit-bunny-rabbits-39405729-800-600.jpg">
+		<h1>I also really like Rabbits because thay are soft, cudly and fluffy</h1>
+		<img src="https://i.ytimg.com/vi/_Jmn4dOoxoY/hqdefault.jpg">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/Pt9Bmc7hnuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<h2>I also like CAR MEMES!!!!!!!!!!</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/86D_QR_NPjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<img src="https://thumbs.gfycat.com/HandyPleasingDrake-poster.jpg">
+	</body>
+
+</html>
